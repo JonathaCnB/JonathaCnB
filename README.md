@@ -1,5 +1,10 @@
-Olá!
+Profissional dinâmico, criativo, sempre em busca de conhecimento, fácil adaptação; Formado em Gestão Comercial pela UNIP;
 
-me chamo Jonatha e estou mudando para programação!
+Principais experiências:
+4 anos trabalhando nas Farmácias FTB, comecei como TI e cheguei a Supervisor; 
+4 anos no Atacadão, começando como TI e novamente cheguei a Supervisor;
 
-atualmente estou estudando Python!
+Principais competências:
+Especializado em pessoas e resultados, Flexibilidade, Apaixonado por desafios. 
+
+Atualmente estou estudando Python!
